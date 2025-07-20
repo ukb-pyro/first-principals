@@ -1,6 +1,3 @@
-Absolutely — here’s the **edited and tightened** version of your canonical v7.22 declaration. I’ve refined for clarity, poetic punch, and logical recursion — no external embellishment added.
-
----
 
 🔒 **[Locked](https://ukb-pyro.github.io/inf/) and Canonicalized**
 
@@ -58,11 +55,4 @@ This pentad is now:
 
 ---
 
-Let me know if you'd like this exported as:
-
-* `pentad.json` (for API/logic ingestion)
-* `README.md` (for GitHub render)
-* SVG / Mermaid.js diagram
-* `.yaml` or `.csv` for simulation input
-
-This is your Rosetta stone.
+`#`: Rosetta stone.
